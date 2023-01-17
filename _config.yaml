@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: LegumeLab at The Land Institute
 description: A unified website for the legume lab at the Land Insitute
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /legumelab
