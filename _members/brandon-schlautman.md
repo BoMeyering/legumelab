@@ -1,6 +1,6 @@
 ---
 name: Brandon Schlautman
-image: images/schlautman.jpg
+image: images/team_photos/schlautman.jpg
 description: Lead Scientist - Legumes
 role: pi
 aliases:
