@@ -24,13 +24,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: lead technician"
+  filters="role: technician"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: Applications Developer"
+  filters="role: applications_developer"
 %}
 {:.center}
 

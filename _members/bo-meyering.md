@@ -2,7 +2,7 @@
 name: Bo Meyering
 image: images/member.jpg
 description: I build things on computers and pray they work
-role: Applications Developer
+role: applications_developer
 aliases:
   - B. Meyering
   - Bryce Meyering

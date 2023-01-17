@@ -1,10 +1,14 @@
 pi:
-  icon: fas fa-microscope
+  icon: fas fa-solid fa-dna
   text: Principal Investigator
 
 postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
+  
+technician:
+  icon:	fas fa-duotone fa-seedling
+  text: Research Technician
 
 phd:
   icon: fas fa-graduation-cap
@@ -21,3 +25,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+  
+applications_developer:
+  icon: fas fa-code
+  text: Applications Developer
