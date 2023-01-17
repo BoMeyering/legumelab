@@ -1,7 +1,7 @@
 ---
 name: Bo Meyering
 image: images/team_photos/meyering.jpg
-description: I build things on computers and pray they work
+description: 
 role: applications_developer
 aliases:
   - B. Meyering
@@ -12,5 +12,5 @@ links:
   email: meyering@landinstitute.org
   github: BoMeyering
 ---
-
-I've perfected the art of CTRL+C CTRL+V
+I build things on computers and pray that they work!
+Skillset: CTRL+C/CTRL+V

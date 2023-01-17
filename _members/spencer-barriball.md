@@ -1,7 +1,7 @@
 ---
 name: Spencer Barriball
 image: images/team_photos/bariball.jpg
-description: I keep the day-to-day operations of the lab running smoothly
+description: 
 role: technician
 aliases:
   - F. Cited

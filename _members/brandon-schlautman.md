@@ -1,7 +1,7 @@
 ---
 name: Brandon Schlautman
 image: images/team_photos/schlautman.jpg
-description: I'm the lead perennial legumes breeder
+description: 
 role: pi
 aliases:
   - Brandon
