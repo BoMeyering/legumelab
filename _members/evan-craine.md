@@ -1,7 +1,7 @@
 ---
 name: Evan Crain
 image: images/team_photos/craine.jpg
-description: Post-doctoral researcher
+description: I'm a post-doctoral Sainfoin researcher
 role: postdoc
 aliases:
   - Evan
