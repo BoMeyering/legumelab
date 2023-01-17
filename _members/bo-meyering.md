@@ -1,6 +1,6 @@
 ---
 name: Bo Meyering
-image: images/team_photos/meyering2.jpg
+image: images/team_photos/meyering.jpg
 description: I build things on computers and pray they work
 role: applications_developer
 aliases:
