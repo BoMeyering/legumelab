@@ -27,5 +27,5 @@ mascot:
   text: Mascot
   
 applications_developer:
-  icon: fas fa-terminal
+  icon: fas fa-solid fa-terminal
   text: Applications Developer

@@ -1,7 +1,7 @@
 ---
 name: Spencer Barriball
 image: images/team_photos/bariball.jpg
-description: Spencer is the lab manager for the LegumeLab
+description: Research Technician
 role: technician
 aliases:
   - F. Cited
@@ -12,4 +12,4 @@ links:
   twitter: felixcited
 ---
 
-Spencer keeps the day to day operations running smoothly.
+I keep the day to day lab operations running smoothly.

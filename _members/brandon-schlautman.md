@@ -11,4 +11,5 @@ links:
   email: schlautman@landinstitute.org
   github: BoMeyering
 ---
-Brandon is a scientist
+
+I'm a perennial legumes breeder
