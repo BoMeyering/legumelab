@@ -1,17 +1,14 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
+name: Brandon Schlautman
+image: images/schlautman.jpg
+description: Lead Scientist - Legumes
+role: Principal Investigator
 aliases:
-  - A. Chovie
+  - Brandon
   - A Chovie
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: https://landinstitute.org/
+  email: schlautman@landinstitute.org
+  github: BoMeyering
 ---
-
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Brandon is a scientist
