@@ -2,7 +2,7 @@
 name: Spencer Barriball
 image: images/member.jpg
 description: Spencer is the lab manager for the LegumeLab
-role: Research Technician
+role: lead technician
 group: alum
 aliases:
   - F. Cited

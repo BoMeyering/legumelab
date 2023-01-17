@@ -2,7 +2,7 @@
 name: Brandon Schlautman
 image: images/schlautman.jpg
 description: Lead Scientist - Legumes
-role: Principal Investigator
+role: pi
 aliases:
   - Brandon
   - A Chovie
