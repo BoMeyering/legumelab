@@ -7,6 +7,7 @@ logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /legumelab
+logo-text: false
 
 # site social media and other links
 links:

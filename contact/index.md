@@ -42,23 +42,23 @@ Our lab is located on campus at The Land Institute just outstide of Salina, Kans
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-The Land Institute
-2440 E Water Well Rd
-Salina, Kansas 67401 
+That St & The Other St  
+Porters Lake, NS B3E 1H3  
+Canada
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Legume Lab at The Land Institute"
+  caption="The Land Institute"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Legume Lab"
+  caption="The Legume Lab"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
