@@ -9,6 +9,10 @@ postdoc:
 technician:
   icon:	fas fa-duotone fa-seedling
   text: Research Technician
+  
+agronomist:
+  icon: fas fa-solid fa-tractor
+  text: Research Agronomist
 
 phd:
   icon: fas fa-graduation-cap
