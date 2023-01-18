@@ -1,6 +1,6 @@
 ---
 name: Bo Meyering
-image: images/team_photos/meyering.jpg
+image: images/team_photos/meyering2.jpg
 description: 
 role: applications_developer
 aliases:
