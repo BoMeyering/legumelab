@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Sainfoinconsortium
+  subtitle: A Germinate instance to host our breeding data and germplasm pedigrees
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/germinate-square.svg
+  link: https://sainfoinconsortium.org
+  description: We use an open source plant resources database application called Germinate to manage our breeding program
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -12,7 +12,7 @@
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://sainfoinconsortium.org
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
