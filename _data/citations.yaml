@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fpls.2022.843065
+  title: 'Plant Breeding for Intercropping in Temperate Field Crop Systems: A Review'
+  authors:
+  - Virginia M. Moore
+  - Brandon Schlautman
+  - Shui-zhang Fei
+  - Lucas M. Roberts
+  - Marnin Wolfe
+  - Matthew R. Ryan
+  - Samantha Wells
+  - Aaron J. Lorenz
+  publisher: Frontiers in Plant Science
+  date: '2022-03-31'
+  link: https://doi.org/grpxs2
+  _cache: 978591c2e09bd0b8d52b8757146479b58b5b8b00f4a9647e954c27a4be6aa467
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
