@@ -4,7 +4,7 @@
   image: images/germinate-square.svg
   link: https://sainfoinconsortium.org
   description: We use an open source plant resources database application called Germinate to manage our breeding program
-  repo: greenelab/lab-website-template
+  repo: germinateplatform/germinate-vue
   tags:
     - resource
 
