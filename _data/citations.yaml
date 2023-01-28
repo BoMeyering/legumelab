@@ -16,52 +16,71 @@
   date: '2022-03-31'
   link: https://doi.org/grpxs2
   _cache: 978591c2e09bd0b8d52b8757146479b58b5b8b00f4a9647e954c27a4be6aa467
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: 10.1016/j.pbi.2021.102150
+  title: Re-imagining crop domestication in the era of high throughput phenomics
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - David L. Van Tassel
+  - Lee R. DeHaan
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Matthew J. Rubin
+  - Brandon Schlautman
+  - Kathryn Turner
+  - Allison J. Miller
+  publisher: Current Opinion in Plant Biology
+  date: '2022-02-01'
+  link: https://doi.org/gnzbd6
+  _cache: 7f81f0109158d00a9688e1220c08f875e519c795360a29709334756930cab503
+- id: 10.1002/agg2.20286
+  title: Effect of growing degree days, day of the year, and cropping systems on reproductive
+    development of Kernza in Kansas
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Spencer Barriball
+  - Abigail Han
+  - Brandon Schlautman
+  publisher: Agrosystems, Geosciences &amp; Environment
+  date: '2022-01-01'
+  link: https://doi.org/grpxs3
+  _cache: 84b78be41dcbdb9c1759a768e370dfbfecd07868c922c02fba0767d8c8441030
+- id: 10.1042/ETLS20200318
+  title: 'Perennial groundcovers: an emerging technology for soil conservation and
+    the sustainable intensification of agriculture'
+  authors:
+  - Brandon Schlautman
+  - Cynthia Bartel
+  - Luis Diaz-Garcia
+  - Shuizhang Fei
+  - Scott Flynn
+  - Erin Haramoto
+  - Ken Moore
+  - D Raj Raman
+  publisher: Emerging Topics in Life Sciences
+  date: '2021-05-11'
+  link: https://doi.org/grpwqr
+  _cache: 4f4e63f99135282ba31d552296538dc65a41b05283e300a3e53d165da9760c1b
+- id: 10.3389/fpls.2020.00789
+  title: 'New Food Crop Domestication in the Age of Gene Editing: Genetic, Agronomic
+    and Cultural Change Remain Co-evolutionarily Entangled'
+  authors:
+  - David L. Van Tassel
+  - Omar Tesdell
+  - Brandon Schlautman
+  - Matthew J. Rubin
+  - Lee R. DeHaan
+  - Timothy E. Crews
+  - Aubrey Streit Krug
+  publisher: Frontiers in Plant Science
+  date: '2020-06-11'
+  link: https://doi.org/ghdj6q
+  _cache: 4850d2060e26192b2b0f4fea46bfe7757b2c58cd37c6c0bef004559c91458fe6
+- id: 10.1016/j.plantsci.2019.110319
+  title: 'Morphometric approaches to promote the use of exotic germplasm for improved
+    food security and resilience to climate change: a kura clover example'
+  authors:
+  - Brandon Schlautman
+  - Luis Diaz-Garcia
+  - Spencer Barriball
+  publisher: Plant Science
+  date: '2020-01-01'
+  link: https://doi.org/ggj8vf
+  _cache: ff46c7230d112d21f0b716a76f68272ef6688e0070b2d561432214a905a9898b
