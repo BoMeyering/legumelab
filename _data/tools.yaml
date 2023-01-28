@@ -1,4 +1,4 @@
-- title: Sainfoinconsortium
+- title: The Sainfoin Consortium
   subtitle: A Germinate instance to host our breeding data and germplasm pedigrees
   group: featured
   image: images/germinate-square.svg
@@ -8,13 +8,13 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Gridscore
+  subtitle: An open source plant phenotyping app for mobile data collection
   group: featured
-  image: images/photo.jpg
-  link: https://sainfoinconsortium.org
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/gridscore.svg
+  link: https://ics.hutton.ac.uk/gridscore/#/
+  description: "GridScore is a field trial phenotyping app for trait data. It lets you keep track of what's happening in the field on a plot-level basis."
+  repo: cropgeeks/gridscore
   tags:
     - resource
 
